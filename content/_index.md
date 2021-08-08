@@ -1,6 +1,6 @@
 ---
 title: 
-subtitle: "Showcase Your Work"
+subtitle: 
 ---
 [![Baron Schwartz](/img/baron-square.jpg)](https://www.xaprb.com)
 
